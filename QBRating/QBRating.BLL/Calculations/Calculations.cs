@@ -82,7 +82,7 @@ namespace QBRating.BLL.Calculations
 
             var results = (sum / 6) * 100;
             results = Math.Round(results, 1);
-            player.Rating = (double)results;
+            player.Rating = results;
             return results;
         }
     }

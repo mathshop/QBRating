@@ -18,6 +18,6 @@ namespace QBRating.Model.DTO
         public decimal YardPerGainW { get; set; }
         public decimal TDPassesW { get; set; }
         public decimal IntW { get; set; }
-        public double Rating { get; set; }
+        public decimal Rating { get; set; }
     }
 }

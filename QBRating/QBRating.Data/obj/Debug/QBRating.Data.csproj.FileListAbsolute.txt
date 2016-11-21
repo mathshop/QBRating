@@ -12,3 +12,10 @@ C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\bin
 C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\obj\Debug\QBRating.Data.csprojResolveAssemblyReference.cache
 C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\obj\Debug\QBRating.Data.dll
 C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.Data\obj\Debug\QBRating.Data.pdb
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.Data\bin\Debug\QBRating.Data.dll
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.Data\bin\Debug\QBRating.Data.pdb
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.Data\bin\Debug\QBRating.Model.dll
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.Data\bin\Debug\QBRating.Model.pdb
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.Data\obj\Debug\QBRating.Data.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.Data\obj\Debug\QBRating.Data.dll
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.Data\obj\Debug\QBRating.Data.pdb

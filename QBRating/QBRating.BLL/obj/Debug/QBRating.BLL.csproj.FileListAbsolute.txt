@@ -16,3 +16,12 @@ C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.BLL\bin\
 C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.BLL\obj\Debug\QBRating.BLL.csprojResolveAssemblyReference.cache
 C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.BLL\obj\Debug\QBRating.BLL.dll
 C:\Users\Cheng\Desktop\cheng-thao-individual-work\QBRating.CLI\QBRating.BLL\obj\Debug\QBRating.BLL.pdb
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.BLL\obj\Debug\QBRating.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.BLL\obj\Debug\QBRating.BLL.dll
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.BLL\obj\Debug\QBRating.BLL.pdb
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.BLL\bin\Debug\QBRating.BLL.dll
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.BLL\bin\Debug\QBRating.BLL.pdb
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.BLL\bin\Debug\QBRating.Data.dll
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.BLL\bin\Debug\QBRating.Model.dll
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.BLL\bin\Debug\QBRating.Data.pdb
+C:\Users\Cheng\Desktop\Chengstuf\github\QBRating\QBRating.BLL\bin\Debug\QBRating.Model.pdb
