@@ -22,7 +22,7 @@ namespace QBRating.Test
         [TestCase("Cheng", 1, -1, 3969, 10, 0, 112.8, false)]
         [TestCase("Cheng", 1, 1, 3969, 10, -1, 112.8, false)]
         [TestCase("Cheng", 461, 324, 3969, 35, 10 * -1, -10, false)]
-        public void AddingPlayer(string playerName, int passesAttempt, int passesComplete, int passYards, int tD, int interceptions, double qbRating, bool expected)
+        public void AddingPlayer(string playerName, int passesAttempt, int passesComplete, int passYards, int tD, int interceptions, decimal qbRating, bool expected)
         {
             Manager manager = ManagerFactory.Create();
             Player player = new Player();
