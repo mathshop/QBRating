@@ -2,7 +2,7 @@
 
 Hello,
 
-I created a short application that calculates Quarterback rating.  It is designed using a factory design pattern for future implementations of a File repository instead of only an in-memory repository.  Unit tests were implemented to ensure UI and BLL validations were worked as intended.  
+I created a short application that calculates Quarterback rating.  It is designed using a factory design pattern for future implementations of a File repository instead of only an in-memory repository.  Unit tests were implemented to ensure UI and BLL validations were working as intended.  
 
 Please let me know if you guys happen to find any bugs!
 
